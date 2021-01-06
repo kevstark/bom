@@ -1,0 +1,5 @@
+# System tools
+awscli
+boto3
+pytz
+BeautifulSoup4
